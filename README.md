@@ -14,8 +14,6 @@ Graphical User Interface controlled by the schema
 
 ### TODO
 
-Move this repo to a place on github that will allow us all to edit together (Currenly MSA organisation which isn't appropriate for this right now)
-
 Create a 'schema' only graph for testing/editing collaboratively
 
 Start to build a GUI that is informed by the schema nodes/relationships that exist within the database (using test database above)
